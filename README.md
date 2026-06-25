@@ -1,19 +1,20 @@
 <h1 align="center">Building things for the web 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Building%20Something-00FF00?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%202026-8B5CF6?style=for-the-badge" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Based%20in-India-F43F5E?style=for-the-badge" alt="Based In" />
+  <img src="https://img.shields.io/badge/Status-Always%20Building%20Something-00FF88?style=for-the-badge&labelColor=1a1a1a&color=00FF88" alt="Status" />
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC%202026-8B5CF6?style=for-the-badge&labelColor=1a1a1a&color=8B5CF6" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Based%20in-Punjab,%20India-F43F5E?style=for-the-badge&labelColor=1a1a1a&color=F43F5E" alt="Based In" />
 </p>
 
 <hr>
 
 ### `> whoami`
 
-<!-- This is the typing effect. Clicking it will open your LinkedIn! -->
-<a href="https://www.linkedin.com/in/prashant-singh-rawat">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=10B981&width=800&lines=Hey,+I+am+Prashant+Singh+Rawat+👋;B.Tech+CSE+(AI%2FML)+Student;Passionate+about+Machine+Learning,+Python,+and+C%2B%2B;Open-Source+Contributor+and+Team+Player;Click+here+to+connect+with+me+on+LinkedIn!+🚀" alt="Typing Intro" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/prashant-singh-rawat">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Prashant+%F0%9F%91%8B;B.Tech+CSE+(AI%2FML)+%40+LPU+%7C+Punjab;Building+things+for+the+web+%26+AI+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Click+here+to+connect+on+LinkedIn!" alt="Typing SVG" />
+  </a>
+</div>
 
 <br><hr>
 
