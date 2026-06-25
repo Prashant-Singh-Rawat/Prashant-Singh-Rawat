@@ -21,10 +21,9 @@
 ### `> badges --gssoc-2026`
 
 <p align="left">
-  <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC-2026-F97316?style=for-the-badge&logo=github&logoColor=white" alt="GSSoC 2026"/></a>
-  <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/Project_Admin-GSSoC'26-0284C7?style=for-the-badge" alt="Project Admin"/></a>
-  <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/Contributor-GSSoC'26-10B981?style=for-the-badge" alt="Contributor"/></a>
-  <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/AI_Agents-Track-8B5CF6?style=for-the-badge" alt="AI Agents Track"/></a>
+  <img src="./badges/project_admin.png" width="150" title="Project Admin"/>
+  <img src="./badges/ai.png" width="150" title="AI Agents Track"/>
+  <img src="./badges/contributor.png" width="150" title="Contributor"/>
 </p>
 
 <br><hr>
